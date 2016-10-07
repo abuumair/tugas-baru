@@ -1,0 +1,146 @@
+body{
+background:linear-gradient(#5185F5,#9F7AD6);
+}
+.kl{
+text-align: center;
+color:#D3D8DE;
+}
+.lp{
+text-align: center;
+color:#D3D8DE;
+}
+.left{
+color: #D3D8DE;
+font-size: 90%;
+}
+.background{
+background-color: #F2F7FC;
+width: 520px;
+height: 300px;
+margin-left: 0px;
+margin-top: 15%;
+}
+.backgroundcolor{
+background-color: #F2F7FC;
+width: 500px;
+height: 545px;
+margin-left: 35px;
+margin-top: 15%;
+}
+.lo{
+height: 40px;
+width: 95%;
+margin: 10px;
+margin-top: 50px;
+padding-top: 5%;
+}
+.mi{
+height: 40px;
+width: 95%;
+margin: 10px;
+}
+.re{
+height: 40px;
+width: 95%;
+margin: 10px;
+}
+.wf{
+height: 75px;
+width: 95%;
+margin: 10px;
+padding-top: 5%;
+}
+.sign{
+margin: 2%;
+width: 95%;
+padding-top: 5%;
+}
+.strong{
+margin-left: 5%;
+font-size: 20px;
+margin-top: 25px;
+}
+.glyphicon{
+margin-left:174px;
+font-size:50px; 
+color:#BDC3C7; 
+margin-top: -35px;
+}
+.username{
+margin-left: 20px;
+font-size: 13px;
+margin-top: 20px;
+}
+.color{
+background-color:#BDC3C7; ;
+width: 520px;
+height: 230px;
+margin-top: 5%;
+}
+.signin{
+margin: 10px;	
+width: 95%;
+padding-top: 5%;
+}
+.form-group1{
+width: 95%;
+margin: 10px;
+height: 40px;
+margin-top: 30px;
+padding-top: 5%;
+}
+.form-group{
+width: 95%;
+margin: 10px;
+height: 40px;
+padding-top: 5%;
+}
+.form{
+margin-top: 10%;
+}
+.glyphicon-{
+margin-top:7%;
+margin-left: -37%;
+}
+.Fill{
+margin-left: -2%;
+font-size: 15px;
+padding-top: 5%;
+}
+.form123{
+margin-top: 5%;
+}
+.emailtoo{
+background-color:#BDC3C7; ;
+width: 500px;
+height: 445px;
+margin-top: -5%;
+}
+.button123{
+margin: 10px;	
+width: 95%;
+}
+.inputHelpBlock{
+width: 95%;
+margin: 10px;
+height: 40px;
+padding-top: 5%;
+}
+.form-group3{
+width: 95%;
+margin: 10px;
+height: 40px;
+padding-top: 5%;
+}
+.de{
+margin:30px;
+color: white;
+}
+.p{
+margin-left: 130px;
+margin-top: -10%;
+}
+.fontawesont{
+margin:10%;
+margin-top: 3%;
+}

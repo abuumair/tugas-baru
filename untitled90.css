@@ -1,0 +1,139 @@
+body{
+background: linear-gradient(#52B3D9, #E4F1FE,#52B3D9);
+}
+.TR{ 
+text-align: center; 
+}
+.JH{
+color: #CF000F;
+}
+.KL{
+color: #CF000F;
+}
+.PL{
+color: #CF000F;
+margin-top:100px;
+}
+.NH{
+color: #CF000F;
+}
+.DF{
+text-align: center;
+}
+.JG{
+color:  #CF000F;
+}
+.MJ{
+color:  #CF000F;
+}
+.KI{
+text-align: center;
+}
+.BR{
+color: #CF000F;
+}
+.LP{
+color: #CF000F;
+}
+.GY{
+color: #CF000F;
+}
+.ZO{
+background-color: #C9C2F2;
+height: 100px;
+width: 1270px;
+}
+.font{
+font-size: 30px;
+margin-left: 100px;
+color: #D1000E;
+}
+.awesome{
+font-size: 30px;
+margin-left: 20px;
+}
+.twitter{
+font-size: 30px;
+margin-left: 20px;
+}
+.MU{
+background-color: #8BE32D;
+width: 100px;
+height: 200px; 
+}
+.KH{
+text-align: center;
+}
+.CO{
+color: #A8A68A;
+}
+.ke{
+font-size:20px;
+border: 0px solid #8BE32D
+border-radius: 0 4px 4px 0; 
+background-color:#a3a090;
+}
+.LO{
+background:rgba(18, 19, 8, 0.74);
+width:1287px;
+height: 70px; 
+position: fixed;
+margin-top: -100px;
+margin-left: -9px;	
+}
+.KO{
+background-color: #F59314;
+width: 20px;
+height: 15px;
+border-radius: 30px;
+text-decoration:none;
+padding: 7px 20px;
+}
+.GW{
+margin-top: -20px;
+text-align: right;
+font-size: 20px;
+}
+.DP{
+background-color: #ccc;
+padding: 6px 12px;
+font-size: 20px;
+border-radius: 30px;
+text-decoration:none;
+}
+.HA{
+margin-top: -70px;
+}
+.AP{
+margin-left: 300px;
+margin-top: -22px;
+}
+.ZP{
+text-align: left;
+margin-top: 30px;
+margin-left: 140px
+}
+.AK{
+text-align: center;
+margin-left: -80px;
+}
+.AM{
+margin-left: 100px;
+margin-top: 20px;
+}
+.QA{
+background-color: #070A01;
+width: 60px;
+height: 15px;
+border-radius: 30px;
+padding: 15px 25px
+}
+.QP{
+margin-top: -5px;
+margin-left: -10px;
+}
+
+
+
+-webkit-transition: width 2s; 
+transition: width 2s;

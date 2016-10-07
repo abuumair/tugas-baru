@@ -1,0 +1,49 @@
+body{
+background-image: url(image/jk.jpeg);
+}
+.kl{
+	margin-left: 100px;
+}
+.left{
+margin-left: 10px;
+}
+.lp{
+margin-left: 150px;
+}
+.col-md-4{
+background-color: #F5F9FA;
+width: 100px;
+height: 400px;
+margin-left: 50px;
+margin-top: 30px;
+
+}
+.color{
+background-color:#CFD1D1;
+width: 429px;
+height: 400px;
+margin-left: -279px;
+margin-top: -230px;
+}
+.field{
+height: 40px;
+width: 95%;
+margin-top: 155px;
+margin-left: 2%;
+}
+.field1{
+height: 40px;
+width: 95%;
+margin-top:12%;
+margin-left: 2%;
+}
+.sign{
+margin-top: 10px;
+}
+.pi{
+margin-left: 26%;
+margin-top: -35px;
+}
+.uy{
+margin-left: 420px;
+}

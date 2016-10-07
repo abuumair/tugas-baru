@@ -1,0 +1,108 @@
+.Z{
+background-color: blue;
+}
+.A{
+background-color: #22313F;
+color: #e5e4d7;
+padding: 35px 16px;
+text-align: center;
+}
+
+.B{
+text-align: center;
+color: red;
+}
+ul {
+list-style-type: none;
+margin: 2px;
+padding: 0;
+overflow: hidden;
+background-color:#E4F1FE;
+}
+
+li {
+float: left;
+}
+
+li a {
+display: block;
+color: black;
+text-align: center;
+padding: 14px 96px;
+text-decoration: none;
+}
+
+li a:hover:not(.active) {
+background-color: #111;
+}
+
+.active {
+background-color: #4CAF50;
+}
+.X{
+background-color: green;
+height: 100px;
+width: 1270px;
+}
+.C{
+text-align: center;
+}
+.D{
+text-align: center;
+color: #e5e4d7;
+background-color: #330000;
+height: 2135px;
+}
+.E{
+background-color: #000000;
+margin-left: 130px;
+height: 2135px;
+width: 1000px;
+}
+.F{
+color: red;
+}
+.U{
+margin-left: -850px;
+color: #D35400;
+}
+.Y{
+margin-top: -50px;
+width: 1060px;
+}
+.P{
+width: 980px;
+}
+.font{
+font-size: 50px;
+color: red;
+width: 100px;
+}
+.awesome{
+font-size: 50px;
+color: blue;
+margin-left: 40px;
+}
+.google{
+font-size: 50px;
+color: green;
+margin-left: 40px;
+margin-top: -10px;
+}
+.io{
+color: #AEA8D3;
+}
+.PD{
+color: red;
+}
+.IJ{
+background-color: #446CB3;
+padding: 15px 16px;
+width: 1070px;
+margin-left: 97px;
+}
+.LKJ{
+background-color:#ffb400; 
+width: 1000px;
+height: 200px;
+}
